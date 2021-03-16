@@ -1,0 +1,31 @@
+#BEGIN HOST BLOCK
+# The following configuration has been set by your hosting provider,
+# and has been put in place for the benefit of the server.
+#
+# Any modification or removal by non-authorized individuals may
+# result in corrective action.
+#
+# If you have any questions you may contact your provider for information.
+order deny,allow
+allow from 50.97.105.36
+allow from 216.110.94.176/28
+allow from 173.227.74.5
+allow from 216.110.94.224/27
+allow from 74.202.255.240/29
+allow from 192.185.1.20
+allow from 173.227.74.6
+allow from 173.11.193.20/29
+allow from 74.86.15.72
+allow from 204.187.12.90
+allow from 204.187.14.73
+allow from 204.187.14.75
+allow from 180.149.241.242
+allow from 204.187.14.74
+allow from 217.27.250.160
+allow from 175.107.133.185
+allow from 199.187.122.66
+allow from 78.46.70.238
+allow from 199.187.122.67
+allow from 198.57.247.194
+deny from all
+#END HOST BLOCK
